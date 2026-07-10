@@ -107,7 +107,7 @@ The project includes a high-level economic assessment considering:
 
 ## Tower Bottom View
 
-![Tower Bottom View](Images/Pic_Tower Bottom view.png)
+![Tower Bottom View](Images/Pic_Tower_Bottom_view.png)
 
 ---
 
